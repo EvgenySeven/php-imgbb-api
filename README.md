@@ -11,7 +11,7 @@ The usage example of the class demonstrates how to upload a file to the Imgbb se
 Use the following methods to upload your image to ImgBB:
 
 - Get API key from [ImgBB](https://api.imgbb.com)
-- Insert your API key into the example below instead of 'IMGBB_API_KEY' variable.
+- Insert your API key into the example below instead of 'YOUR_API_KEY' variable.
 
 ```php
 //Connecting the ImgbbApi.php class file.
